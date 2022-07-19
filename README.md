@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Visitor Count](https://profile-counter.glitch.me/Sam5440/count.svg)
 <!--
 **Sam5440/Sam5440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
