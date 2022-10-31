@@ -1,8 +1,8 @@
 # Hi there 👋
 ### Total Visitor is ![Visitor Count](https://profile-counter.glitch.me/Sam5440/count.svg)!
 ![Sam5440's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam5440&show_icons=true&theme=tokyonight)
-![Time Count](https://wakatime.com/share/@208d8b76-670b-45f8-9d31-3d1de1c3079a/17807b56-6f39-45e7-81f1-06f88edaef54.svg)
-![Languages Count](https://wakatime.com/share/@208d8b76-670b-45f8-9d31-3d1de1c3079a/5063c89f-261c-4f22-ab85-5b48752322ed.svg)
+<!-- ![Time Count](https://wakatime.com/share/@208d8b76-670b-45f8-9d31-3d1de1c3079a/17807b56-6f39-45e7-81f1-06f88edaef54.svg)
+![Languages Count](https://wakatime.com/share/@208d8b76-670b-45f8-9d31-3d1de1c3079a/5063c89f-261c-4f22-ab85-5b48752322ed.svg) -->
 
 
 
