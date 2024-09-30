@@ -1,5 +1,5 @@
 # Hi there 👋
-> I am sam, a high school student from Malaysia
+> I am sam, From Tianjin Renai College.
 ### Total Visitor is ![Visitor Count](https://profile-counter.glitch.me/Sam5440/count.svg)!
 ![Sam5440's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam5440&show_icons=true&theme=tokyonight)
 
