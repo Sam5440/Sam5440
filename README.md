@@ -1,5 +1,5 @@
 # Hi there 👋
-> I am sam, From Tianjin Renai College.
+> I am sam, welcome to my github.
 ### Total Visitor is ![Visitor Count](https://profile-counter.glitch.me/Sam5440/count.svg)!
 ![](https://komarev.com/ghpvc/?username=sam5440)
 ![Sam5440's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam5440&show_icons=true&theme=tokyonight)
