@@ -4,9 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=sam5440)
 ![Sam5440's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam5440&show_icons=true&theme=tokyonight)
 
-
-
-
+目前常用模型：MiMo-V2.5-Pro
+https://platform.xiaomimimo.com/token-plan
+邮箱 Sam5440@qq.com
 
 
 
