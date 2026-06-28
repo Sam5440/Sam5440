@@ -2,18 +2,15 @@
 > I am sam, welcome to my github.
 
 ![](https://komarev.com/ghpvc/?username=sam5440)
-![Sam5440's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam5440&show_icons=true&theme=tokyonight)
 
-目前常用模型：MiMo-V2.5-Pro
 
-https://platform.xiaomimimo.com/token-plan
-
-邮箱 Sam5440@qq.com
+[![GitHub Roast](https://githubroast.dev/api/card/Sam5440)](https://githubroast.dev/u/Sam5440)
 
 
 
 
 <!--
+![Sam5440's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam5440&show_icons=true&theme=tokyonight)
 **Sam5440/Sam5440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
